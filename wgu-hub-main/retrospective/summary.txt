@@ -1,0 +1,12 @@
+The merge conflict was resolved by editing the README.md file of the master branch and deleting the
+git version and tags and only leaving the student id information.  Then the change was committed
+and the merge was pushed to gitlab.
+
+
+The first change made in part C was to add my self to the team.html file showing that I am now
+a member of the team working on the project.
+
+The second change made in part C was to fix the spelling of them in customer 2 response, capitalize
+I in customer 3 response, and capitalize they in customer 4 response of the customers.html file.
+
+The third change made in part C was to change the padding of the .w3-content class to 0 50px.

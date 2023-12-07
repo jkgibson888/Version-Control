@@ -1,0 +1,44 @@
+commit 1e89b59c3fce07ad7ed8b78a9fe1f7941929e11f
+Merge: 3bfee65 a4596d9
+Author: joshua <jgib194@wgu.edu>
+Date:   Tue Sep 5 00:42:05 2023 -0400
+
+    Merge branch 'README'
+    
+    Merges main with README
+
+commit 3bfee652de8f5f038ac94b0f31cc417b2ac4aec4
+Author: joshua <jgib194@wgu.edu>
+Date:   Tue Sep 5 00:38:57 2023 -0400
+
+    adds git verstion to README.md
+
+commit a4596d9cdcd23a62fd28a0ca19662a6ddb120c51
+Author: joshua <jgib194@wgu.edu>
+Date:   Mon Sep 4 23:49:01 2023 -0400
+
+    Creates README branch
+
+commit 7ae55acefb9118ac3e88455179e65c51af8563c8
+Author: joshua <jgib194@wgu.edu>
+Date:   Mon Sep 4 23:41:44 2023 -0400
+
+    Changes padding of .w3-content to 0 50px
+
+commit d9f734d77ded21c30dcafbf6a92253875ab9c204
+Author: joshua <jgib194@wgu.edu>
+Date:   Mon Sep 4 23:39:13 2023 -0400
+
+    Fixes spelling of them in customer 2 response. Capitalizes I in customer 3 response. Capitalizes they in customer 4 response.
+
+commit 6c6e220137dfb917111aab09c744e276b85fd67b
+Author: joshua <jgib194@wgu.edu>
+Date:   Mon Sep 4 23:36:46 2023 -0400
+
+    Adds myself to the group of team members for the project
+
+commit 4469d0585a709adcc1d6d80c70c0c6279c1bfa84
+Author: joshua <jgib194@wgu.edu>
+Date:   Mon Sep 4 23:12:02 2023 -0400
+
+    Initial commit
